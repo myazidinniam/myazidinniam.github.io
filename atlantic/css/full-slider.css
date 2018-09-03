@@ -1,0 +1,17 @@
+/*------------------------------------------------------------------
+    File Name: full-slider.css
+    Template Name: Atlantic
+    Created By: JOLLYTHEMES
+    Envato Profile: https://themeforest.net/user/jollythemes
+    Website: http://www.jollythemes.com
+    Version: 1.0
+-------------------------------------------------------------------*/
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
